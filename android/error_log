@@ -1,0 +1,18 @@
+[26-Jan-2021 12:06:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/j7x1v9n4wyaz/script/database.php:9
+Stack trace:
+#0 /home/j7x1v9n4wyaz/script/database.php(9): PDO->__construct('mysql:host=loca...', 'ujjwal7664', 'Ujjuurmi7664')
+#1 /home/j7x1v9n4wyaz/desijewel/android/android_script2.php(4): include('/home/j7x1v9n4w...')
+#2 {main}
+  thrown in /home/j7x1v9n4wyaz/script/database.php on line 9
+[24-Feb-2021 08:08:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/j7x1v9n4wyaz/script/database.php:9
+Stack trace:
+#0 /home/j7x1v9n4wyaz/script/database.php(9): PDO->__construct('mysql:host=loca...', 'ujjwal7664', 'Ujjuurmi7664')
+#1 /home/j7x1v9n4wyaz/desijewel/android/android_script2.php(4): include('/home/j7x1v9n4w...')
+#2 {main}
+  thrown in /home/j7x1v9n4wyaz/script/database.php on line 9
+[24-Feb-2021 08:08:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/j7x1v9n4wyaz/script/database.php:9
+Stack trace:
+#0 /home/j7x1v9n4wyaz/script/database.php(9): PDO->__construct('mysql:host=loca...', 'ujjwal7664', 'Ujjuurmi7664')
+#1 /home/j7x1v9n4wyaz/desijewel/android/android_script2.php(4): include('/home/j7x1v9n4w...')
+#2 {main}
+  thrown in /home/j7x1v9n4wyaz/script/database.php on line 9

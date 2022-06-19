@@ -1,0 +1,2 @@
+
+select * from designs WHERE (dp='1') AND category = 'mangalsutra'  ORDER BY hit DESC LIMIT  9, 9
